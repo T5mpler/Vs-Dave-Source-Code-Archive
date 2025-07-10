@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dave_sheet.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dave Idle0000" x="274" y="0" width="270" height="456"/>
+	<SubTexture name="Dave Idle0001" x="548" y="0" width="270" height="456"/>
+	<SubTexture name="Dave Idle0002" x="822" y="0" width="270" height="456"/>
+	<SubTexture name="Dave Idle0003" x="548" y="0" width="270" height="456"/>
+	<SubTexture name="Dave Sing Down0000" x="1096" y="0" width="256" height="428"/>
+	<SubTexture name="Dave Sing Down0001" x="1356" y="0" width="256" height="428"/>
+	<SubTexture name="Dave Sing Down0002" x="1616" y="0" width="256" height="428"/>
+	<SubTexture name="Dave Sing Left0000" x="0" y="460" width="285" height="463"/>
+	<SubTexture name="Dave Sing Left0001" x="289" y="460" width="285" height="463"/>
+	<SubTexture name="Dave Sing Left0002" x="578" y="460" width="285" height="463"/>
+	<SubTexture name="Dave Sing Right0000" x="867" y="460" width="299" height="457"/>
+	<SubTexture name="Dave Sing Right0001" x="1170" y="460" width="299" height="457"/>
+	<SubTexture name="Dave Sing Right0002" x="1473" y="460" width="299" height="457"/>
+	<SubTexture name="Dave Sing Up0000" x="1776" y="460" width="258" height="468"/>
+	<SubTexture name="Dave Sing Up0001" x="0" y="932" width="258" height="468"/>
+	<SubTexture name="Dave Sing Up0002" x="262" y="932" width="258" height="468"/>
+</TextureAtlas>
