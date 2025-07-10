@@ -1,8 +1,12 @@
 # About
 
-This is an archive of all the source code for every public Vs Dave & Bambi version (Not including 3.0d, an april fools build).
+This is an archive of all the source code for every public Vs. Dave & Bambi version.
 
-This includes major updates, minor updates, and patch/hotfix updats. 
+This includes:
+-  Major updates (1.0, 2.0, 3.0, etc.)
+-  Minor updates (0.x),
+-  Patch/hotfix updats (Patch = 0.0.x).
+
 The id at the right of the folders are the commit ids from the repository.
 
 # NOT INCLUDED VERSIONS
